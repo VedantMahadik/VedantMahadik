@@ -1,11 +1,6 @@
-
-
-
 # Vedant Mahadik
 
 ## I'm a Undergraduate Student and a Developer.
-
----
 
 - 🔭 I'm currently developing a mobile app with Flutter.
 - 🌱 I'm currently learning Flutter and Node-js.
