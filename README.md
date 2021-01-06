@@ -1,5 +1,4 @@
 # Vedant Mahadik
-
 ## I'm a Undergraduate Student and a Developer.
 
 - 🔭 I'm currently developing a mobile app with Flutter.
