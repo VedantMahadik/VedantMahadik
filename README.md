@@ -1,7 +1,7 @@
 # Vedant Mahadik
 ## I'm a Undergraduate Student and a Developer.
 
-- 🔭 I'm currently working as ML/Software Engineering intern at Auto-Dl.
+- 🔭 I'm currently working as ML/Software Engineering intern at [AutoDL](http://github.com/auto-DL/).
 - 🌱 I'm currently learning MERN.
 - 👯 I'm looking to work with anyone on any project.
 
@@ -16,7 +16,7 @@
 
 ### MY GOALS FOR 2021:
 
-- [x] Have some intership opportunities (Thank you Auto-Dl).
+- [x] Have some intership opportunities (Thank you [AutoDL](http://github.com/auto-DL/)).
 - [ ] Win a hackathon.
 - [x] Get better at collaboration and leadership.
 - [ ] Be more productive.
