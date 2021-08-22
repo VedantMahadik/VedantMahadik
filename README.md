@@ -1,24 +1,24 @@
 # Vedant Mahadik
 ## I'm a Undergraduate Student and a Developer.
 
-- 🔭 I'm currently developing a mobile app with Flutter.
-- 🌱 I'm currently learning Flutter and Node.js.
+- 🔭 I'm currently working as ML/Software Engineering intern at Auto-Dl.
+- 🌱 I'm currently learning MERN.
 - 👯 I'm looking to work with anyone on any project.
 
 ---
 
 ### Skills and experience:
 
-- 1.5 years of web design and development.
-- 2 years experience in python.
+- 2 years of web design and development.
+- 2.5 years experience in python.
 
 ---
 
 ### MY GOALS FOR 2021:
 
-- [ ] Have some intership opportunities.
+- [x] Have some intership opportunities (Thank you Auto-Dl).
 - [ ] Win a hackathon.
-- [ ] Get better at collaboration and leadership.
+- [x] Get better at collaboration and leadership.
 - [ ] Be more productive.
 - [ ] Learn more.
 
@@ -41,14 +41,3 @@
 </p>
 
 ---
-
-### My Stats:
-
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=VedantMahadik&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=VedantMahadik&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=VedantMahadik&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=VedantMahadik&hide=php&theme=tokyonight" />
-</a>
-</div>
