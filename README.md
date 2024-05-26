@@ -1,26 +1,16 @@
 # Vedant Mahadik
-## I'm a Undergraduate Student and a Developer.
+## I'm a FTE at Goldman Sachs
 
 - 🔭 I'm was working as ML/Software Engineering intern at [AutoDL](http://github.com/auto-DL/).
-- 🌱 I'm currently learning Web3 and looking for internships/work opportunties in the same.
+- 🌱 I'm currently learning Web3 and looking for work opportunties in the same.
 - 👯 I'm looking to work with anyone on any project.
 
 ---
 
 ### Skills and experience:
 
-- 2 years of web design and development.
-- 2.5 years experience in python.
-
----
-
-### MY GOALS FOR 2022:
-
-- [x] Have some intership opportunities (Thank you [AutoDL](http://github.com/auto-DL/)).
-- [ ] Win a hackathon.
-- [x] Get better at collaboration and leadership.
-- [ ] Be more productive.
-- [ ] Learn more.
+- 3 years of web design and development.
+- 3.5 years experience in python.
 
 ---
 
